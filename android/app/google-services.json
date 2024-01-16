@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "798109529676",
+    "firebase_url": "https://sistem-informasi-mahasis-68853-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sistem-informasi-mahasis-68853",
+    "storage_bucket": "sistem-informasi-mahasis-68853.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798109529676:android:6a792ef11960f7e490e6e9",
+        "android_client_info": {
+          "package_name": "id.ac.usm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkMIG_8l5etu2miNGntv-E7z1_0og0vGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
